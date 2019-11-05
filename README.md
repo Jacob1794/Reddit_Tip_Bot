@@ -1,2 +1,3 @@
 # Reddit_Tip_Bot
-Reddit tipping bot using RonPaulCoin
+
+Reddit RonPaulCoin tipping bot using reddit api in python. Used crytocurrency daemon on ubuntu AWS EC2 Server for crptocurrency tipping.
